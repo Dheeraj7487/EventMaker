@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#FAF4F4"
+    tools:context=".Register_Otp_Page">
+
+    <ImageView
+        android:background="#FAF4F4"
+        android:id="@+id/forgot_email_image_register"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:src="@drawable/emails"
+        android:layout_width="150dp"
+        android:layout_height="150dp"/>
+
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:id="@+id/forgot_email_register"
+        android:layout_width="match_parent"
+        android:padding="7dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="Check Your Mail_Account"
+        android:textColor="#000"/>
+
+    <com.mukesh.OtpView
+        android:layout_marginTop="8dp"
+        android:id="@+id/otp_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/forgot_btn_register"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="GET OTP"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

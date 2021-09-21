@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FAF4F4">
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FAF4F4"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+           <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Profile_Image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:src="@drawable/profile" />
+
+            <EditText
+                android:id="@+id/signup_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFF"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/costemlay"
+                android:drawableLeft="@drawable/person"
+                android:drawablePadding="7dp"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Name"
+                android:inputType="text"
+                android:textColorHint="#FFF"
+                android:padding="9dp" />
+
+
+            <EditText
+                android:id="@+id/signup_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:textColorHint="#FFF"
+                android:textColor="#FFF"
+                android:background="@drawable/costemlay"
+                android:drawableLeft="@drawable/call"
+                android:drawablePadding="7dp"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Number"
+                android:inputType="number"
+                android:padding="9dp" />
+
+
+            <EditText
+                android:id="@+id/signup_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:textColor="#FFF"
+                android:textColorHint="#FFF"
+                android:background="@drawable/costemlay"
+                android:drawableLeft="@drawable/mail"
+                android:drawablePadding="7dp"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Email"
+                android:inputType="text"
+                android:padding="9dp" />
+
+            <EditText
+                android:id="@+id/signup_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:textColor="#FFF"
+                android:background="@drawable/costemlay"
+                android:drawableLeft="@drawable/lock"
+                android:drawablePadding="7dp"
+                android:textColorHint="#FFF"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:padding="9dp" />
+
+            <EditText
+                android:id="@+id/signup_ConfirmPaaword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFF"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/costemlay"
+                android:drawableLeft="@drawable/lock"
+                android:drawablePadding="7dp"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Confirm Paaword"
+                android:textColorHint="#FFF"
+                android:inputType="textPassword"
+                android:padding="9dp" />
+
+
+            <EditText
+                android:id="@+id/signup_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:textColor="#FFF"
+                android:background="@drawable/costemlay"
+                android:drawableLeft="@drawable/address"
+                android:drawablePadding="7dp"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Address"
+                android:textColorHint="#FFF"
+                android:inputType="text"
+                android:padding="9dp" />
+
+
+            <Button
+                android:id="@+id/signup_btn"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/poppins_light"
+                android:padding="9dp"
+                android:text="Signup" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

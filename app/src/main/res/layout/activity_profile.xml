@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAF4F4"
+    tools:context=".Profile">
+
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FAF4F4">
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#FAF4F4"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/profile_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:src="@drawable/dream" />
+
+
+            <TextView
+                android:id="@+id/profile_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFF"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/costemlay"
+                android:fontFamily="@font/poppins_light"
+                android:inputType="text"
+                android:padding="9dp" />
+
+
+            <TextView
+                android:id="@+id/profile_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/costemlay"
+                android:textColor="#FFF"
+                android:fontFamily="@font/poppins_light"
+                android:inputType="number"
+                android:padding="9dp" />
+
+
+            <TextView
+                android:id="@+id/profile_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/costemlay"
+                android:fontFamily="@font/poppins_light"
+                android:textColor="#FFF"
+                android:inputType="text"
+                android:padding="9dp" />
+
+
+            <TextView
+                android:id="@+id/profile_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/costemlay"
+                android:fontFamily="@font/poppins_light"
+                android:textColor="#FFF"
+                android:inputType="text"
+                android:padding="9dp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

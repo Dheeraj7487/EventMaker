@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Dream Maker</string>
+    <string name="title_activity_homes_navigation">HomesNavigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_homenavigation">Homenavigation</string>
+    <string name="title_activity_home_navigation">HomeNavigation</string>
+
+    <string name="babyshowerdecoration">Are you planning to do the perfect decorations for an event?
+Then your mind may be full of colorful ideas already. Do not mess up! Every procedure requires a streamline flow
+or otherwise you’ll end up with the worst event decorations ever.
+Take a piece of paper and note down every single information on the following. Make sure you don’t miss a single data.
+If you have already chosen a location for the event, note down every dimension of it.
+For example if it is a hall write down the width and length of the floor. If the location has special geometrical spaces,
+ note down a description on what it looks like. If it is covered with a roof, get a rough idea on
+whether the space is high and spacious or a bit packed.
+If the location is in outdoors, then note the surrounding, including the landscape, view, natural resources around the in the location.</string>
+    <string name="babyshowerfood">Dinner parties are fun, food-filled events meant to be spent with your loved ones or to celebrate a special event.
+If you’re planning a dinner party in the near future, you’re probably sending out dinner party invitations.
+In order to make sure all guests’ expectations for the event are what they should be,
+you’ll need to ensure all important information is clear on the invitations.
+We’re here to help.
+Check out our guide on dinner invitation wording and examples below.
+And once you’re ready, make sure to order your invitations well in advance.</string>
+    <string name="babyshowerplace">How much do you feel you still truly understand venue marketing?
+In today’s digital world of snaps, stories, influencers and more, it can be hard to keep up.
+The key to successful event venue marketing is to increase your venue’s discoverability.
+That’s the only way to generate more event leads.
+Your ability to influence and reach others is determined by how well you can connect venue discoverability and event leads.
+The easiest way to think about this is through what I like to call.</string>
+    <string name="babyshowerphoto">Such images can include photographs which you yourself took.
+The legal rights for images generally lie with the photographer, not the subject.
+Photographs of two-dimensional objects such as paintings in a museum often
+do not create a new copyright (see the section on the public domain below),
+Photographs of three-dimensional objects almost always generate a new copyright,
+though others may continue to hold copyright in items depicted in such photographs.
+Whether the photo carries the copyright of the object photographed depends on numerous factors.
+photograph, such a photo may still be licensed freely.</string>
+
+
+    <string name="weddingdecoration">Are you planning to do the perfect decorations for an event?
+Then your mind may be full of colorful ideas already. Do not mess up! Every procedure requires a streamline flow
+or otherwise you’ll end up with the worst event decorations ever.
+Take a piece of paper and note down every single information on the following. Make sure you don’t miss a single data.
+If you have already chosen a location for the event, note down every dimension of it.
+For example if it is a hall write down the width and length of the floor. If the location has special geometrical spaces,
+ note down a description on what it looks like. If it is covered with a roof, get a rough idea on
+whether the space is high and spacious or a bit packed.
+If the location is in outdoors, then note the surrounding, including the landscape, view, natural resources around the in the location.</string>
+    <string name="weddingfood">Dinner parties are fun, food-filled events meant to be spent with your loved ones or to celebrate a special event.
+If you’re planning a dinner party in the near future, you’re probably sending out dinner party invitations.
+In order to make sure all guests’ expectations for the event are what they should be,
+you’ll need to ensure all important information is clear on the invitations.
+We’re here to help.
+Check out our guide on dinner invitation wording and examples below.
+And once you’re ready, make sure to order your invitations well in advance.</string>
+    <string name="weddingplace">How much do you feel you still truly understand venue marketing?
+In today’s digital world of snaps, stories, influencers and more, it can be hard to keep up.
+The key to successful event venue marketing is to increase your venue’s discoverability.
+That’s the only way to generate more event leads.
+Your ability to influence and reach others is determined by how well you can connect venue discoverability and event leads.
+The easiest way to think about this is through what I like to call.</string>
+    <string name="weddingphoto">Such images can include photographs which you yourself took.
+The legal rights for images generally lie with the photographer, not the subject.
+Photographs of two-dimensional objects such as paintings in a museum often
+do not create a new copyright (see the section on the public domain below),
+Photographs of three-dimensional objects almost always generate a new copyright,
+though others may continue to hold copyright in items depicted in such photographs.
+Whether the photo carries the copyright of the object photographed depends on numerous factors.
+photograph, such a photo may still be licensed freely.</string>
+
+
+    <string name="ringceremoneydecoration">Are you planning to do the perfect decorations for an event?
+Then your mind may be full of colorful ideas already. Do not mess up! Every procedure requires a streamline flow
+or otherwise you’ll end up with the worst event decorations ever.
+Take a piece of paper and note down every single information on the following. Make sure you don’t miss a single data.
+If you have already chosen a location for the event, note down every dimension of it.
+For example if it is a hall write down the width and length of the floor. If the location has special geometrical spaces,
+ note down a description on what it looks like. If it is covered with a roof, get a rough idea on
+whether the space is high and spacious or a bit packed.
+If the location is in outdoors, then note the surrounding, including the landscape, view, natural resources around the in the location.</string>
+    <string name="ringceremoneyfood">Dinner parties are fun, food-filled events meant to be spent with your loved ones or to celebrate a special event.
+If you’re planning a dinner party in the near future, you’re probably sending out dinner party invitations.
+In order to make sure all guests’ expectations for the event are what they should be,
+you’ll need to ensure all important information is clear on the invitations.
+We’re here to help.
+Check out our guide on dinner invitation wording and examples below.
+And once you’re ready, make sure to order your invitations well in advance.</string>
+    <string name="ringceremoneyplace">How much do you feel you still truly understand venue marketing?
+In today’s digital world of snaps, stories, influencers and more, it can be hard to keep up.
+The key to successful event venue marketing is to increase your venue’s discoverability.
+That’s the only way to generate more event leads.
+Your ability to influence and reach others is determined by how well you can connect venue discoverability and event leads.
+The easiest way to think about this is through what I like to call.</string>
+    <string name="ringceremoneyphoto">Such images can include photographs which you yourself took.
+The legal rights for images generally lie with the photographer, not the subject.
+Photographs of two-dimensional objects such as paintings in a museum often
+do not create a new copyright (see the section on the public domain below),
+Photographs of three-dimensional objects almost always generate a new copyright,
+though others may continue to hold copyright in items depicted in such photographs.
+Whether the photo carries the copyright of the object photographed depends on numerous factors.
+photograph, such a photo may still be licensed freely.</string>
+
+    <string name="festivalfood">Dinner parties are fun, food-filled events meant to be spent with your loved ones or to celebrate a special event.
+If you’re planning a dinner party in the near future, you’re probably sending out dinner party invitations.
+In order to make sure all guests’ expectations for the event are what they should be,
+you’ll need to ensure all important information is clear on the invitations.
+We’re here to help.
+Check out our guide on dinner invitation wording and examples below.
+And once you’re ready, make sure to order your invitations well in advance.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

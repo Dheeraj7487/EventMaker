@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAF4F4"
+    android:orientation="vertical"
+    tools:context=".Events">
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:id="@+id/event_tab"
+        android:layout_height="wrap_content"/>
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/event_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
